@@ -1,0 +1,16 @@
+bahasa pemrograman yang harus dikuasai:
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- PHP
+- GIT & GITHUB
+- MYSQL
+
+Framework Yang Harus dikuasai:
+- angular
+- react.js
+- vue.js
+- bootstrap
+- tailwind
+
