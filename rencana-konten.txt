@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue.js
     ^ React.js
+    ^ Angular
  - Fundamental data structure
 - PHP Framework
   ^ Laravel
