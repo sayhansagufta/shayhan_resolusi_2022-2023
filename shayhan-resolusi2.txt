@@ -1,0 +1,3 @@
+Resolusi saya:
+- Membuat website menggunakan framework dengan javascript
+- bekerja sebagai front-end programmer
